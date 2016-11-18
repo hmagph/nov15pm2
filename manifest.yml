@@ -1,7 +1,7 @@
 applications:
 - path: .
-  memory: 256G
-  instances: 3
+  memory: 256M
+  instances: 1
   domain: stage1.mybluemix.net
   name: nov15pm2
   host: nov15pm2
